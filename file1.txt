@@ -1,1 +1,2 @@
 Hello world!
+Some addition outputting something for file2.txt
